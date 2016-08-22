@@ -1,30 +1,29 @@
 .text1 {
 	background-color: yellow;
-	width: 200px;
-	height: 70px;
+	width: 90px;
+	height: 30px;
 	border: solid 1px yellow;
 	margin: 3px;
 	display: inline-block;
 }
 .text2 {
 	background-color: red;
-	width: 200px;
-	height: 70px;
+	width: 40px;
+	height: 30px;
 	border: solid 1px red;
 	margin: 3px;
 	display: inline-block;
 }
 .text3 {
 	background-color: yellow;
-	width: 200px;
-	height: 70px;
+	width: 160px;
+	height: 30px;
 	border: solid 1px yellow;
 	margin: 3px;
 	display: inline-block;
 }
 div p {
-	text-align: none;
-	margin-top: 3px;
-	padding: 4px;
-	margin-left: 3px;
+	text-align: center;
+	padding: 2px;
+	margin: 1px;
 }
