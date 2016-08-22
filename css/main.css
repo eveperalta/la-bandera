@@ -1,9 +1,10 @@
 .text1 {
 	background-color: yellow;
 	width: 200px;
-	height: 100px;
+	height: 70px;
 	border: solid 1px yellow;
 	margin: 3px;
+	display: inline-block;
 }
 .text2 {
 	background-color: red;
@@ -11,13 +12,15 @@
 	height: 70px;
 	border: solid 1px red;
 	margin: 3px;
+	display: inline-block;
 }
 .text3 {
 	background-color: yellow;
 	width: 200px;
-	height: 100px;
+	height: 70px;
 	border: solid 1px yellow;
 	margin: 3px;
+	display: inline-block;
 }
 div p {
 	text-align: none;
