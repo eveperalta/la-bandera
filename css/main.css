@@ -1,23 +1,27 @@
 .text1 {
 	background-color: yellow;
-	width: 500px;
+	width: 200px;
 	height: 100px;
 	border: solid 1px yellow;
+	margin: 3px;
 }
 .text2 {
 	background-color: red;
-	width: 500px;
+	width: 200px;
 	height: 70px;
 	border: solid 1px red;
+	margin: 3px;
 }
 .text3 {
 	background-color: yellow;
-	width: 500px;
+	width: 200px;
 	height: 100px;
 	border: solid 1px yellow;
+	margin: 3px;
 }
 div p {
-	text-align: justify;
-	margin-top: 1px;
-	padding: 1px;
+	text-align: none;
+	margin-top: 3px;
+	padding: 4px;
+	margin-left: 3px;
 }
